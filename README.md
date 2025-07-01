@@ -37,15 +37,13 @@ Marshala Zaharova; 198328
 ### Professional Experience:
 
 **Huawei R&D** | Programming Language Lab (Sep. 2024 - present)
-
   Developing Cangjie programming language compiler
-  
   Key achievements:
 
 ### Skills:
-**Programming Languages**: C, Go, Python (ML), Cangjie, Rust
-**Databases**: MongoBD, PostgreSQL, Redis, Minio
-**OS**: Linux
-**Languages**: Russian(native), English(B2, 6.5 IETLS Academic), French(A2)
+- **Programming Languages**: C, Go, Python (ML), Cangjie, Rust
+- **Databases**: MongoBD, PostgreSQL, Redis, Minio
+- **OS**: Linux
+- **Languages**: Russian(native), English(B2, 6.5 IETLS Academic), French(A2)
 
 ### Interests:
