@@ -22,9 +22,9 @@ Marshala Zaharova; 198328
 
 ### Education:
 
-2022 - 2025: M.A. ITMO, Russia (Software Engineering)
-2020 - 2021: B.A. Sciences Po, France (Political Science)
-2018 - 2022: B.A. RANEPA, Russia (Political Science)
+- 2022 - 2025: M.A. ITMO, Russia (Software Engineering)
+- 2020 - 2021: B.A. Sciences Po, France (Political Science)
+- 2018 - 2022: B.A. RANEPA, Russia (Political Science)
 
 ### Awards and Honors:
 - Recipient of the Russian Presidential Grant for scientific accomplishments
@@ -36,8 +36,10 @@ Marshala Zaharova; 198328
 
 ### Professional Experience:
 
-- **Huawei R&D** | Programming Language Lab (Sep. 2024 - present)
+**Huawei R&D** | Programming Language Lab (Sep. 2024 - present)
+
   Developing Cangjie programming language compiler
+  
   Key achievements:
 
 ### Skills:
