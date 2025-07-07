@@ -63,5 +63,5 @@ Marshala Zaharova; 198328
 - **Others**: Git, Docker, UML, Swagger, REST, NATS
 
 ### Interests:
-**Sports**: Trains discipline and focus
-**Entrepreneurship**: Applying programming knowledge to solve real business problems
+- **Sports**: Trains discipline and focus
+- **Entrepreneurship**: Applying programming knowledge to solve real business problems
